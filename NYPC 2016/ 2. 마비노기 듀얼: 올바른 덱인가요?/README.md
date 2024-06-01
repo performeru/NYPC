@@ -1,6 +1,6 @@
 ## 문제 설명
 
-문제링크 []
+[문제링크](https://nypc.github.io/2016/validdeck)
 ___
 
 ### 입력
